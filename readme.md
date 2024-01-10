@@ -9,3 +9,7 @@ There are a few constants in `scrape.js` that might be helpful to modify: `BASE_
 ## Installation
 
 Running `npm start`will install necessary dependencies and run `scrape.js`to generate the `chronicle.json`file. Running `node scrape.js` will re-generate the `.json` file, should that be necessary.
+
+## TODO
+
+Make a way for events, births, and deaths to be recognizably separated in the chronicle. 
