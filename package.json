@@ -1,0 +1,17 @@
+{
+  "name": "chronicler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npm install && node scrape.js"
+  },
+  "keywords": [],
+  "author": "Ian Mosley",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
